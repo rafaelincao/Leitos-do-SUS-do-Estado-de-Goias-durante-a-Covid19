@@ -1,0 +1,63 @@
+CNES - Recursos Físicos - Hospitalar - Leitos de internação - Brasil
+Quantidade existente por Ano/mês compet. e Unidade da Federação
+Unidade da Federação: Goiás
+Período:Jan/2019-Nov/2022
+"Ano/mês compet.";"GO";"Total"
+"2019/Jan";17328;17328
+"2019/Fev";17306;17306
+"2019/Mar";17421;17421
+"2019/Abr";17444;17444
+"2019/Mai";17357;17357
+"2019/Jun";17219;17219
+"2019/Jul";17199;17199
+"2019/Ago";17087;17087
+"2019/Set";17151;17151
+"2019/Out";17262;17262
+"2019/Nov";17413;17413
+"2019/Dez";17358;17358
+"2020/Jan";17502;17502
+"2020/Fev";17445;17445
+"2020/Mar";17666;17666
+"2020/Abr";17747;17747
+"2020/Mai";17784;17784
+"2020/Jun";17880;17880
+"2020/Jul";18022;18022
+"2020/Ago";18177;18177
+"2020/Set";18152;18152
+"2020/Out";18164;18164
+"2020/Nov";17965;17965
+"2020/Dez";18305;18305
+"2021/Jan";18290;18290
+"2021/Fev";18386;18386
+"2021/Mar";18526;18526
+"2021/Abr";18409;18409
+"2021/Mai";18340;18340
+"2021/Jun";18423;18423
+"2021/Jul";18564;18564
+"2021/Ago";18708;18708
+"2021/Set";18778;18778
+"2021/Out";18766;18766
+"2021/Nov";18804;18804
+"2021/Dez";18920;18920
+"2022/Jan";18947;18947
+"2022/Fev";18851;18851
+"2022/Mar";18871;18871
+"2022/Abr";18929;18929
+"2022/Mai";18947;18947
+"2022/Jun";18666;18666
+"2022/Jul";18727;18727
+"2022/Ago";18803;18803
+"2022/Set";18775;18775
+"2022/Out";18856;18856
+"2022/Nov";18692;18692
+ A partir da competência de Janeiro 2010 os dados referentes
+ a leitos Complementares foram retirados da consulta referente
+ a leitos de Internação, passando a constituir uma consulta específica conforme descrito na Nota Técnica.
+ Fonte: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+ Nota:
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+ 
+ Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+ De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+ A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+ 

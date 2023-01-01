@@ -1,0 +1,58 @@
+NEW
+Titulo1=Leitos por Especialidade Médica dos Estabelecimentos de Saúde do CNES
+Titulo2=Freqüência segundo Tipo/Especialidade
+[Opções]
+DEF=C:\Users\rafae\Desktop\Dados_SUS_Goiás\TAB_CNES\Leitos_Especialidade.def
+PATH=C:\Users\rafae\Desktop\Dados_SUS_Goiás\DatasetSUS\LT*.DB?
+Linha=Tipo/Especialidade
+Incremento=Freqüência
+Suprime_Linhas_Zeradas=true
+Suprime_Colunas_Zeradas=true
+Não_Classificados=0
+[Arquivos]
+LTGO2001.dbc
+LTGO2002.dbc
+LTGO2003.dbc
+LTGO2004.dbc
+LTGO2005.dbc
+LTGO2006.dbc
+LTGO2007.dbc
+LTGO2008.dbc
+LTGO2009.dbc
+LTGO2010.dbc
+LTGO2011.dbc
+LTGO2012.dbc
+LTGO2101.dbc
+LTGO2102.dbc
+LTGO2103.dbc
+LTGO2104.dbc
+LTGO2105.dbc
+LTGO2106.dbc
+LTGO2107.dbc
+LTGO2108.dbc
+LTGO2109.dbc
+LTGO2110.dbc
+LTGO2111.dbc
+LTGO2112.dbc
+LTGO2201.dbc
+LTGO2202.dbc
+LTGO2203.dbc
+LTGO2204.dbc
+LTGO2205.dbc
+LTGO2206.dbc
+LTGO2207.dbc
+LTGO2208.dbc
+LTGO2209.dbc
+LTGO2210.dbc
+LTGO2211.dbc
+Registros_Processados= 103498
+Tempo_Decorrido= 0:00
+"Tipo/Especialidade";"Freqüência"
+"1-Cirúrgico";175988
+"2-Clínico";227015
+"3-Complementar";108187
+"4-Obstétrico";71926
+"5-Pediátrico";61288
+"6-Outras Especialidades";92388
+"7-Hospital/DIA";16182
+"Total";752974
